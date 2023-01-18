@@ -1,0 +1,22 @@
+C:\Users\sooha\OneDrive\바탕 화면\AML랩\c#\과제\HomeWork3Update\bin\Debug\HomeWork3Update.exe.config
+C:\Users\sooha\OneDrive\바탕 화면\AML랩\c#\과제\HomeWork3Update\bin\Debug\HomeWork3Update.exe
+C:\Users\sooha\OneDrive\바탕 화면\AML랩\c#\과제\HomeWork3Update\bin\Debug\HomeWork3Update.pdb
+C:\Users\sooha\OneDrive\바탕 화면\AML랩\c#\과제\HomeWork3Update\obj\Debug\HomeWork3Update.csproj.AssemblyReference.cache
+C:\Users\sooha\OneDrive\바탕 화면\AML랩\c#\과제\HomeWork3Update\obj\Debug\HomeWork3Update.csproj.SuggestedBindingRedirects.cache
+C:\Users\sooha\OneDrive\바탕 화면\AML랩\c#\과제\HomeWork3Update\obj\Debug\HomeWork3Update.Form1.resources
+C:\Users\sooha\OneDrive\바탕 화면\AML랩\c#\과제\HomeWork3Update\obj\Debug\HomeWork3Update.Properties.Resources.resources
+C:\Users\sooha\OneDrive\바탕 화면\AML랩\c#\과제\HomeWork3Update\obj\Debug\HomeWork3Update.csproj.GenerateResource.cache
+C:\Users\sooha\OneDrive\바탕 화면\AML랩\c#\과제\HomeWork3Update\obj\Debug\HomeWork3Update.csproj.CoreCompileInputs.cache
+C:\Users\sooha\OneDrive\바탕 화면\AML랩\c#\과제\HomeWork3Update\obj\Debug\HomeWork3Update.exe
+C:\Users\sooha\OneDrive\바탕 화면\AML랩\c#\과제\HomeWork3Update\obj\Debug\HomeWork3Update.pdb
+C:\Users\PC\Desktop\과제 2.  lead 검사 샘플\과제\과제\HomeWork3Update\bin\Debug\HomeWork3Update.exe.config
+C:\Users\PC\Desktop\과제 2.  lead 검사 샘플\과제\과제\HomeWork3Update\bin\Debug\HomeWork3Update.exe
+C:\Users\PC\Desktop\과제 2.  lead 검사 샘플\과제\과제\HomeWork3Update\bin\Debug\HomeWork3Update.pdb
+C:\Users\PC\Desktop\과제 2.  lead 검사 샘플\과제\과제\HomeWork3Update\obj\Debug\HomeWork3Update.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\과제 2.  lead 검사 샘플\과제\과제\HomeWork3Update\obj\Debug\HomeWork3Update.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\과제 2.  lead 검사 샘플\과제\과제\HomeWork3Update\obj\Debug\HomeWork3Update.RoiForm.resources
+C:\Users\PC\Desktop\과제 2.  lead 검사 샘플\과제\과제\HomeWork3Update\obj\Debug\HomeWork3Update.Properties.Resources.resources
+C:\Users\PC\Desktop\과제 2.  lead 검사 샘플\과제\과제\HomeWork3Update\obj\Debug\HomeWork3Update.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\과제 2.  lead 검사 샘플\과제\과제\HomeWork3Update\obj\Debug\HomeWork3Update.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\과제 2.  lead 검사 샘플\과제\과제\HomeWork3Update\obj\Debug\HomeWork3Update.exe
+C:\Users\PC\Desktop\과제 2.  lead 검사 샘플\과제\과제\HomeWork3Update\obj\Debug\HomeWork3Update.pdb
